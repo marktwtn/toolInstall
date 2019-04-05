@@ -9,6 +9,7 @@ sudo apt install \
   fish \
   gitk \
   gnuplot \
+  linux-tools-common \
   maven \
   npm \
   python-pip \
