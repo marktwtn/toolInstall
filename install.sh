@@ -9,6 +9,7 @@ sudo apt install \
   fish \
   gitk \
   gnuplot \
+  grip \
   linux-tools-common \
   maven \
   npm \
