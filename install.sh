@@ -11,7 +11,6 @@ sudo apt install \
   gnuplot \
   grip \
   linux-tools-common \
-  maven \
   python3-pip \
   tig \
   tmux \
