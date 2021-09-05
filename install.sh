@@ -12,8 +12,8 @@ sudo apt install \
   grip \
   linux-tools-common \
   maven \
-  npm \
   python3-pip \
   tig \
   tmux \
   vim \
+  yarn \
