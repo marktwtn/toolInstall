@@ -13,7 +13,7 @@ sudo apt install \
   linux-tools-common \
   maven \
   npm \
-  python-pip \
+  python3-pip \
   tig \
   tmux \
   vim \
